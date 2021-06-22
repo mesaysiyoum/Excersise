@@ -12,7 +12,8 @@ package com.m.s.myexcersise;
 public class Exercise2 {
     public static void main(String[] args) {
         System.out.println("feven is my wife and i love her!");
-        //i write this to show my wife 
+        //i write this to show my wife
+        System.out.println("we met in jimma university when i was 2nd year student.");
     }
     
 }
