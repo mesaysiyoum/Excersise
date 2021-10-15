@@ -9,8 +9,18 @@ package com.m.s.myexcersise;
  *
  * @author mesay-work
  */
-public class Exercise1 {
+public class StayPositiveExercise {
     public static void main(String[] args) {
-        System.out.println(" hello world");
+         
+        int x = 10;
+        
+        while(x > 0) {
+            System.out.println("count down starts");
+            System.out.println("now x is " + x );
+            x--;
+            
+        }
+        System.out.println("Blast OFF!!");
     }
+    
 }
